@@ -1,0 +1,2 @@
+In this project we have created a circle whose bgcolor varies as per the position of the mouse ,when you move towards the left of the circle from its mid then the bgcolor will turn red and more-red towards the left, while it turns blue when you move right . 
+once you leave the circle the bg color turns back to original.
